@@ -6,6 +6,8 @@
 
 ### Links and Resources
 
+__str__
+(https://www.pythontutorial.net/python-oop/python-__str__/)
 
 back-end server url (when applicable)
 front-end application (when applicable)
